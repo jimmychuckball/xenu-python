@@ -44,14 +44,7 @@ Uses only native Python libraries.
 
 ---
 
-# Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/url-metadata-scanner.git
-cd url-metadata-scanner
-```
 
 ---
 
@@ -61,7 +54,7 @@ Create a TXT file containing targets:
 
 ```txt
 google.com
-openai.com
+url.com
 192.168.1.1
 10.0.0.5:8443
 example.org
